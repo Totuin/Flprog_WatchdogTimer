@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+#######################################
+# # Datatypes (KEYWORD1)
+#######################################
+FLProgrogWatchdogTimer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+pool	KEYWORD2
+setCallBack	KEYWORD2
+setCheckPeriod	KEYWORD2
+setTickPeriod	KEYWORD2
+tick	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+AIRCR_Register	LITERAL1
+RT_HW_CORE_RP2040	LITERAL1
